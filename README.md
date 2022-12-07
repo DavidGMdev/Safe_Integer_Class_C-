@@ -2,7 +2,7 @@
 
 ## General idea
 
-Aim to create a helper C++ class to be used in my college programming courses "console" assigments and projects , ex ( programming 1 , programming 2 (oop) , ..etc )
+Aim to create a helper C++ class to be used in my college programming courses "console" assigments and projects
 
 </br>
 
